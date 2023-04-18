@@ -1,0 +1,1 @@
+This is a online platform where a student can join in a group which he/she scared of.He can create a group,invite people to group.Every student will have a Student Profile.He/She can join unlimited number of groups.He/She can change message to the groups and asked for help.
